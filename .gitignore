@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Dotenv files
+.flaskenv
+.env
+
+# Visual Studio Code
+.vscode/
+
+# Pycharm
+.idea/
+
+# Uploads
+# uploads/
